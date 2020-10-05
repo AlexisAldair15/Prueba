@@ -18,3 +18,8 @@ h1{
     color: blanchedalmond;
 
 }
+body h2{
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    color: navajowhite;
+}
