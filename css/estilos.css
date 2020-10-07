@@ -34,11 +34,11 @@ body h4{
     font-size: 100px;
     color: red;
 }
+
 body .interesante{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
     color: yellow;
-
 }
 
 .rama{
@@ -48,5 +48,14 @@ body .interesante{
     text-align: center;
     color: slateblue;
     font-size: 30;
+    
+}
 
+.master{
+    border: violet 6px solid;
+    text-align: center;
+    background-color: turquoise;
+    margin: auto;
+    padding: 10px;
+    margin: 50px;
 }
