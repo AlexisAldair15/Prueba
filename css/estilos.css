@@ -6,6 +6,14 @@ header{
     background-color: royalblue;
     text-size-adjust: 20px;
 }
+header span{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: monospace;
+    padding: 10px 10px 5px 5px ;
+    text-align: center;
+    border: 3px solid white;
+}
 
 body{
     color: white;
