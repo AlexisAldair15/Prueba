@@ -67,3 +67,13 @@ body .interesante{
     padding: 10px;
     margin: 50px;
 }
+
+footer{
+    text-align: center;
+    text-decoration: violet;
+    color: white;
+    background-color: black;
+    padding: 30px;
+    margin: 10px;
+    text-size-adjust: 20px;
+}
